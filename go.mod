@@ -3,7 +3,7 @@ module moul.io/assh
 require (
 	github.com/Masterminds/goutils v1.1.0 // indirect
 	github.com/Masterminds/semver v1.4.2 // indirect
-	github.com/Masterminds/sprig v2.18.0+incompatible
+	github.com/Masterminds/sprig/v3 v3.0.2
 	github.com/StackExchange/wmi v0.0.0-20190530172153-cbe66965904d // indirect
 	github.com/aokoli/goutils v1.1.0 // indirect
 	github.com/awalterschulze/gographviz v0.0.0-20190530172153-fa59802746ab
@@ -29,7 +29,7 @@ require (
 	github.com/shirou/gopsutil v2.18.12+incompatible
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4 // indirect
 	github.com/smartystreets/assertions v0.0.0-20190530172153-f487f9de1cd3 // indirect
-	github.com/smartystreets/goconvey v0.0.0-20190530172153-68dc04aab96a
+	github.com/smartystreets/goconvey v1.6.4
 	github.com/spf13/cobra v0.0.4
 	github.com/spf13/pflag v1.0.3
 	github.com/spf13/viper v1.4.0
